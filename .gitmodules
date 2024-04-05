@@ -1,0 +1,4 @@
+[submodule "fs_simul"]
+	path = fs_simul
+	url = https://github.com/caiogoede/fs_simul.git
+	branch = master
